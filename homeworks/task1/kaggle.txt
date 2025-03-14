@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/yukikila/solar-power-vizualization-with-plt
